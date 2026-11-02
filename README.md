@@ -1,4 +1,5 @@
 # projeto-equipe
+
 ## Integrantes
-- Thiago Miranda (@Thiago-Mi)
-- Pedro Siqueira (@pedrsiqueira)
+- [Thiago Miranda](https://github.com/Thiago-Mi)
+- [Pedro Siqueira](https://github.com/pedrsiqueira)
